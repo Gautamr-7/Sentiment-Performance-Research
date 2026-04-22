@@ -1,4 +1,4 @@
-# Primetrade.ai Data Science Assignment: Sentiment & Performance Research
+# Sentiment & Performance Research
 
 ## Overview
 This repository contains a local-first interactive dashboard built to explore the relationship between trader performance (Hyperliquid) and market sentiment (Bitcoin Fear & Greed Index). 
